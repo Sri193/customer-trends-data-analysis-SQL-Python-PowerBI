@@ -44,7 +44,6 @@ This project covers the complete analytics lifecycle—from data preparation and
 ---
 
 ## 🔄 Project Workflow
-Raw Data → Python (Cleaning & EDA) → SQL (Analysis) → Power BI (Dashboard) → Report & Presentation
 <img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/30370082-2fdf-4d4f-b597-0f80cce30481" />
 
 
